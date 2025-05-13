@@ -1,0 +1,23 @@
+.. _exhale_struct_structfoxglove_1_1Channel_1_1Deleter:
+
+Struct Channel::Deleter
+=======================
+
+- Defined in :ref:`file_foxglove_include_foxglove_channel.hpp`
+
+
+Nested Relationships
+--------------------
+
+This struct is a nested type of :ref:`exhale_class_classfoxglove_1_1Channel`.
+
+
+Struct Documentation
+--------------------
+
+
+.. doxygenstruct:: foxglove::Channel::Deleter
+   :project: Foxglove SDK
+   :members:
+   :protected-members:
+   :undoc-members:
